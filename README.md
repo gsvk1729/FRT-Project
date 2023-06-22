@@ -6,7 +6,7 @@ This is a web based application developed for health related website in India.
 
 ** Project Link**-https://nice-ground-03ee6e100.3.azurestaticapps.net
 
-** Project demo video link**-
+** Project demo video link**-https://youtu.be/RUVISzjdWdI
 
 ## Azure technologies used for Project 
 - Static web apps
