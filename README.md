@@ -1,6 +1,6 @@
 # ⚡ Preventive⚡
 
-This is a web based application developed for health related telugu based website in India.
+This is a web based application developed for health related website in India.
 
 ### This web based application has been developed for the applications of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime,Quess ,Github and Ey.
 
